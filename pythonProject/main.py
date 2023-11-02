@@ -143,4 +143,4 @@ for serial_element in root.iter("serial"):
     serial_data = {}
     for child_element in serial_element:
         serial_data[child_element.tag] = child_element.text
-    print("TV Show:", serial_data)
+    print("Serial:", serial_data)
