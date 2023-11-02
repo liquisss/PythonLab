@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<media>
+  <film>
+    <title>We</title>
+    <year>2019</year>
+    <director>Jordan Peele</director>
+    <genre>horror</genre>
+    <actor>Evan Alex</actor>
+    <description>very scary</description>
+  </film>
+  <film>
+    <title>Red Notice</title>
+    <year>2021</year>
+    <director>Rawson Marshall Thurber</director>
+    <genre>Comedy</genre>
+    <actor>Gal Gadot</actor>
+    <description>very interesting(maybe)</description>
+  </film>
+  <serial>
+    <title>Queen's move</title>
+    <year>2022</year>
+    <director>Scott Frank</director>
+    <genre>Historical drama</genre>
+    <actor>Anya Taylor-Joy</actor>
+    <description>very smart woman</description>
+    <seasons>1</seasons>
+  </serial>
+  <serial>
+    <title>Man vs Bee</title>
+    <year>2022</year>
+    <director>Rowan Atkinson</director>
+    <genre>comedy</genre>
+    <actor>Jingo Lucy</actor>
+    <description>strange incomprehensible</description>
+    <seasons>1</seasons>
+  </serial>
+</media>

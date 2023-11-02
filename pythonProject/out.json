@@ -1,0 +1,40 @@
+{
+    "films": [
+        {
+            "title": "We",
+            "year": 2019,
+            "director": "Jordan Peele",
+            "genre": "horror",
+            "actor": "Evan Alex",
+            "description": "very scary"
+        },
+        {
+            "title": "Red Notice",
+            "year": 2021,
+            "director": "Rawson Marshall Thurber",
+            "genre": "Comedy",
+            "actor": "Gal Gadot",
+            "description": "very interesting(maybe)"
+        }
+    ],
+    "serials": [
+        {
+            "title": "Queen's move",
+            "year": 2022,
+            "director": "Scott Frank",
+            "genre": "Historical drama",
+            "actor": "Anya Taylor-Joy",
+            "description": "very smart woman",
+            "seasons": 1
+        },
+        {
+            "title": "Man vs Bee",
+            "year": 2022,
+            "director": "Rowan Atkinson",
+            "genre": "comedy",
+            "actor": "Jingo Lucy",
+            "description": "strange incomprehensible",
+            "seasons": 1
+        }
+    ]
+}

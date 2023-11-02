@@ -1,0 +1,23 @@
+{
+    "films": [
+        {
+            "title": "film_from_json",
+            "year": 2023,
+            "director": "NoName",
+            "genre": "horror",
+            "actor": "NoName",
+            "description": "example_films"
+        }
+    ],
+    "serials": [
+        {
+            "title": "serials_from_json",
+            "year": 2023,
+            "director": "NoName",
+            "genre": "Historical drama",
+            "actor": "NoName",
+            "description": "example_serial",
+            "seasons": 1
+        }
+    ]
+}
